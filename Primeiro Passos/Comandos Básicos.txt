@@ -1,0 +1,7 @@
+Comandos básicos do Git Bash
+
+Inserir um arquivo no repositório remoto
+git -a ou git . insere todos os arquivos
+
+Verifica a situação de cada arquivo
+git status
