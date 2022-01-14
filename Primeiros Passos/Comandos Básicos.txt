@@ -1,0 +1,13 @@
+Comandos básicos do Git Bash
+
+Começar a rastrear um arquivo
+git -a <file> para um arquivo ou git . insere todos os arquivos
+
+Verificar o estado de cada arquivo
+git status
+
+Fazer commit de uma alteração
+git commit -m "texto"
+
+Enviar um arquivo para o repositório remoto
+git push origin master(main)
